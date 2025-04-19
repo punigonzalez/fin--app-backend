@@ -27,5 +27,3 @@ public class Usuario {
         this.roles.add(rol);
     }
 }
-
-//comentario prueba para dev-test
